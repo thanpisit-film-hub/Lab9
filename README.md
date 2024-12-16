@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:นายธัญพิสิษฐ์ โนนทิง
+# STUDENT ID:670610705
